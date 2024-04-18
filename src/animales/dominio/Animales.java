@@ -4,7 +4,6 @@ public class Animales {
 
     private final String nombre;
 
-
     public Animales(String nombre){
         this.nombre = nombre;
     }
