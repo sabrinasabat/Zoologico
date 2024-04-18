@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args){
 
-        // incluyendo los animales 'ave'
+        // incluyendo los animales del tipo ave
         Ave ganso = new Ave();
         Ave cuervo = new Ave();
         Ave tucán = new Ave();
